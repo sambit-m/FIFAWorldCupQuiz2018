@@ -1,0 +1,60 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">FIFA World Cup 2018 Quiz</string>
+    <string name="question_1">1. Which is the host country of the FIFA World Cup\'18?</string>
+    <string name="question_2">2. Which player scored the first hat-trick in FIFA World Cup\'18?</string>
+    <string name="question_3">3. Which team was the previous World Cup champion?</string>
+    <string name="question_4">4. Who is the youngest player to score in FIFA World Cup\'18?</string>
+    <string name="question_5">5. Which team was not qualified for FIFA World Cup\'18?</string>
+    <string name="question_6">6. Which player got the first red card in FIFA World Cup\'18?</string>
+    <string name="question_7">7. Which player scored the most goals in FIFA World Cup\'18?</string>
+    <string name="question_8">8. Which team defeated the previous Champion and knocked them out of the group stage including itself in FIFA World Cup\'18?</string>
+    <string name="question_9">9. Which team is ranked no. 1 in FIFA?</string>
+    <string name="question_10">10. Which of the following team(s) the are finalists of FIFA world cup\'18?</string>
+
+    <string name="ques_1_ans_1">USA</string>
+    <string name="ques_1_ans_2">Russia</string> //Correct answer
+    <string name="ques_1_ans_3">Mexico</string>
+
+    <string name="ques_2_ans_1">Ronaldo</string> //Correct answer
+    <string name="ques_2_ans_2">Lukaku</string>
+    <string name="ques_2_ans_3">Kane</string>
+
+    <string name="ques_3_ans_1">Germany</string> //Correct answer
+    <string name="ques_3_ans_2">Spain</string>
+    <string name="ques_3_ans_3">Italy</string>
+
+    <string name="ques_4_ans_1">Arzani</string>
+    <string name="ques_4_ans_2">Uzoho</string>
+    <string name="ques_4_ans_3">Mbappe</string> //Correct answer
+
+    <string name="ques_5_ans_1">Morocco</string>
+    <string name="ques_5_ans_2">Italy</string> //Correct answer
+    <string name="ques_5_ans_3">Nigeria</string>
+
+    <string name="ques_6_ans_1">Smolnikov</string>
+    <string name="ques_6_ans_2">Boateng</string>
+    <string name="ques_6_ans_3">Moreno</string> //Correct answer
+
+    <string name="ques_7_ans_1">Ronaldo</string>
+    <string name="ques_7_ans_2">Kane</string> //Correct answer
+    <string name="ques_7_ans_3">Lukaku</string>
+
+    <string name="ques_8_ans_1">Sweden</string>
+    <string name="ques_8_ans_2">South\nKorea</string> //Correct answer
+    <string name="ques_8_ans_3">Mexico</string>
+
+    <string name="ques_9_ans_1">Spain</string>
+    <string name="ques_9_ans_2">Brazil</string>
+    <string name="ques_9_ans_3">Germany</string> //Correct answer
+
+    <string name="ques_10_ans_1">France</string> //Correct answer
+    <string name="ques_10_ans_2">Belgium</string>
+    <string name="ques_10_ans_3">Croatia</string> //Correct answer
+
+    <string name="ans">Enter your answer here</string>
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset</string>
+    <string name="toast_display">Please answer all the questions</string>
+    <string name="correct_no_of_ans">No of correct answers: <xliff:g example="0" id="correct_no">%d</xliff:g>/10</string>
+
+</resources>
